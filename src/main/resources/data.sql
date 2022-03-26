@@ -1,0 +1,2 @@
+INSERT INTO CADASTRO(proprietario, nome, especie, raca) VALUES('Vinicius', 'Thor', 'cachorro', 'pitbull');
+INSERT INTO CADASTRO(proprietario, nome, especie, raca) VALUES('Luis', 'Branco', 'gato', 'siames');
